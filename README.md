@@ -7,7 +7,6 @@ Habilidades: Python / REACT / JS / HTML / CSS
 
 - 🔭 Estoy trabajando en My Final Project about Cloud Computing 
 - 🌱 Estoy aprendiendo Python / Reacts  
-- 📫 Cómo contactarme: dbustos@correo.ugr.es 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dalkisbustos)  
