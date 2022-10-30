@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola 👋, My name is Dalkis
+#### I am Student of Master Degree in Informatics Engineering at the Granada´s University
 
-<!--
-**dalkisbustos/dalkisbustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m from Colombia but I moved to the city of Granada (Spain) for studies. I would like to boost my knowledge about DevOps and Cloud Computing
 
-Here are some ideas to get you started:
+Habilidades: Python / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en My Final Project about Cloud Computing 
+- 🌱 Estoy aprendiendo Python / Reacts  
+- 📫 Cómo contactarme: dbustos@correo.ugr.es 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dalkisbustos)  
+
